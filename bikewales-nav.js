@@ -1,6 +1,8 @@
-/* BIKE WALES MASTER NAVBAR 
-   VERSION: 4 (Workshop Master)
-   REFINED from 43.15.4: 2026-04-30
+/* 
+   Project: BikeWales Navigation 
+   File: bikewales-nav.js
+   Version: 4.0
+   30 April 2026
 */
 
 (function() {
