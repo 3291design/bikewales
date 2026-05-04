@@ -1,0 +1,42 @@
+/* BikeWales Global Styles v1.0 */
+
+/* 1. FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500&family=Big+Shoulders+Inline+Display&family=Josefin+Sans:wght@300&display=block');
+
+/* 2. CONTROL BUTTONS (Top/Bottom) */
+.controlBtn {
+    position: fixed;
+    right: 20px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #485175;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.controlBtn:hover {
+    background-color: #6aa84f;
+    opacity: 1;
+}
+
+#topButton { bottom: 80px; display: none; }
+#bottomButton { bottom: 20px; }
+
+/* 3. LAYOUT CONTAINERS */
+.card-sleeve {
+    max-width: 940px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+hr.main {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 30px auto;
+}
