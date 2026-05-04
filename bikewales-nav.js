@@ -283,7 +283,7 @@ window.onscroll = function() {
     const bottomBtn = document.getElementById("bottomButton");
     
     if (topBtn && bottomBtn) {
-        if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
             topBtn.style.display = "block";
             bottomBtn.style.display = "none";
         } else {
