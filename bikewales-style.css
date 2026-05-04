@@ -34,11 +34,8 @@
     overflow: hidden;
 }
 
-
-
 hr.main {
     border: 0;
     height: 1px;
     background: #ccc;
-    margin: 30px auto;
 }
