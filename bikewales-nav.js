@@ -4,20 +4,6 @@
    Version: 4.0
 */
 
-(function() {
-    // 1. Create the link element for your CSS
-    var link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.type = 'text/css';
-    
-    // 2. Use the Githack link so your Workshop updates instantly
-    link.href = 'https://raw.githack.com/bikewales/shared-assets/main/bikewales-style.css';
-    
-    // 3. Send it to the "head" of the blog
-    document.getElementsByTagName('head')[0].appendChild(link);
-    
-    console.log("BikeWales CSS Injected Successfully");
-})();
 
 (function() {
     const buildNav = () => {
