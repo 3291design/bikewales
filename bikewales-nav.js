@@ -2,8 +2,8 @@
    Project: BikeWales Navigation 
    File: bikewales-nav.js
    Version: 4.0
+   30 April 2026
 */
-
 
 (function() {
     const buildNav = () => {
@@ -55,8 +55,7 @@
             <!-- <a href="https://bikewalesrides-home.blogspot.com/2022/01/recent-rides.html">Recent Rides &amp; Reports</a> -->
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Ride Reports by Year:</a>
                 <div class="dropdown-content2">
-                    <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2024.html">Ride Reports: <b>2024</b></a>
-					<a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2023.html">Ride Reports: <b>2023</b></a>
+                    <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2023.html">Ride Reports: <b>2023</b></a>
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2022.html">Ride Reports: <b>2022</b></a>
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/my-rides-rides-by-year-2021.html">Ride Reports: <b>2021</b></a>
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/my-rides-rides-by-year-2020.html">Ride Reports: <b>2020</b></a>
