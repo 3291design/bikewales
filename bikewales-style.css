@@ -34,6 +34,16 @@
     overflow: hidden;
 }
 
+.event {
+   color: #9c8461; 
+   font-family: verdana, sans-serif; 
+   font-size: .9em;
+   line-height: 1.8em;
+   font-weight: bold;
+   letter-spacing: 4px;
+   margin-bottom: 10px
+}
+
 hr.main {
     border: 0;
     height: 1px;
