@@ -35,13 +35,14 @@
 }
 
 .event {
-   color: #9c8461; 
-   font-family: verdana, sans-serif; 
-   font-size: .9em;
-   line-height: 1.8em;
-   font-weight: bold;
-   letter-spacing: 4px;
-   margin-bottom: 10px;
+    color: #9c8461 !important; 
+    font-family: 'Josefin Sans', verdana, sans-serif !important; 
+    font-size: .9em !important;
+    line-height: 1.8em !important;
+    font-weight: bold !important;
+    letter-spacing: 4px !important;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 hr.main {
