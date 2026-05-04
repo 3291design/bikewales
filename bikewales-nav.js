@@ -258,32 +258,3 @@
         buildNav();
     }
 })();
-
-/* ------------------------------------------------
-   SCROLL TO TOP/BOTTOM FUNCTIONS
-   ------------------------------------------------ */
-
-// Show buttons when user scrolls down 1000px
-window.onscroll = function() {
-    const topBtn = document.getElementById("topButton");
-    const bottomBtn = document.getElementById("bottomButton");
-    
-    if (topBtn && bottomBtn) {
-        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
-            topBtn.style.display = "block";
-            bottomBtn.style.display = "none";
-        } else {
-            topBtn.style.display = "none";
-            bottomBtn.style.display = "block";
-        }
-    }
-};
-
-// Scroll functions
-window.topFunction = function() {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-};
-
-window.bottomFunction = function() {
-    window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-};
