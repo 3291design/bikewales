@@ -220,7 +220,7 @@
       <div class="dropdown-content" style="min-width: 140px;">
         <div class="dropbtn2"><a href="#">&#9658;&nbsp;Desktop:</a>
           <div class="dropdown-content2" style="min-width: 250px; left:  194px; top: 0px;">
-            <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Online Project List</a>
+            <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Digital Project List</a>
            	<a href="https://bikewalesgear-home.blogspot.com/2026/04/ride-reports.html">Outstanding: Ride Reports</a>
             <a href="https://bikewalesgear-home.blogspot.com/2026/04/routes-to-ride.html">Future: Routes to Ride</a>
 			<a href="https://bikewalesgear-home.blogspot.com/2026/04/future-places-to-visit.html">Future: Places to Visit</a>
