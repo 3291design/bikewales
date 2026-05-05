@@ -262,7 +262,7 @@
     <td width="9%" class="dropdown ${isAbout ? 'nav-active' : 'nav-inactive'}"><a href="https://bikewalesabout.blogspot.co.uk/">About</a></td>
 </tr>
 </table>
-<hr style="margin:0; border:0; border-top:1px solid #ccc; clear: both;" />`;
+
     };
 
     if (document.readyState === 'loading') {
