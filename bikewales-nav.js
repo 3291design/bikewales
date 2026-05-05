@@ -10,15 +10,24 @@
 
         const url = window.location.href.toLowerCase();
         
-        const isHome = (url === "https://bikewales.blogspot.com/" || url.includes("bikewales.blogspot.com/index.html"));
-        const isRides = url.includes('bikewalesrides');
-        const isRoutes = url.includes('bikewalesroutes');
-        const isEvents = url.includes('bikewalesevents');
-        const isCharts = url.includes('walescharts'); 
-        const isGallery = url.includes('bikewalesgallery');
-        // Logic linked to the workshop domain and tech-lab specific page
-        const isWorkshop = url.includes('bikewalesgear');
-        const isAbout = url.includes('bikewalesabout');
+        // Specialty Site Checks
+		const isRides    = url.includes('bikewalesrides');
+		const isRoutes   = url.includes('bikewalesroutes');
+		const isEvents   = url.includes('bikewalesevents');
+		const isCharts   = url.includes('walescharts'); 
+		const isGallery  = url.includes('bikewalesgallery');
+		const isWorkshop = url.includes('bikewalesgear');
+		const isAbout    = url.includes('bikewalesabout');
+		
+		// The "Catch-All" Home Logic
+		// This stays true for the root, index, and all /p/ pages on the main domain
+		// UNLESS one of the specific sites above is active.
+		const isMainDomain = url.includes('bikewales.blogspot.com');
+		
+		const isHome = isMainDomain && !(
+		    isRides || isRoutes || isEvents || isCharts || 
+		    isGallery || isWorkshop || isAbout
+		);
 
         const styleInject = document.createElement('style');
         styleInject.innerHTML = `
