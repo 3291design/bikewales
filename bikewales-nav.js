@@ -1,7 +1,7 @@
 /* 
    Project: BikeWales Navigation 
    File: bikewales-nav.js
-   Version: 5.1 (Full Feature Logic - No CSS Injection)
+   Version: 5.2 (Gold Master Restore - Gap Fix)
 */
 
 (function() {
@@ -111,6 +111,13 @@
             </div>
             <hr class="nav-hr" />
             <a href="https://bikeswalescharts-home.blogspot.com/2026/02/overall-walking-totals.html">Overall Walking Totals</a>
+            <div class="dropbtn2">
+                <a href="#">&nbsp;&nbsp;&#9658;&nbsp;Walking Totals by Year:</a> 
+                <div class="dropdown-content2" style="min-width: 210px; left: 268px; top: 40px;">
+                    <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-yearly-walking.html"><b>2026</b> Yearly Walking</a>
+                    <a href="https://bikeswalescharts-home.blogspot.com/2024/12/2025-walking-totals.html"><b>2025</b> Yearly Walking</a>
+                </div>
+            </div>
             <hr class="nav-hr" />
             <a href="https://bikewalescharts.blogspot.com/2022/01/chart-archive.html">Chart Archive: 2012 - 2021</a> 
         </div>
@@ -146,7 +153,7 @@
     <td width="9%" class="dropdown ${isAbout ? 'nav-active' : 'nav-inactive'}"><a href="https://bikewalesabout.blogspot.co.uk/">About</a></td>
 </tr>
 </table>
-
+<hr style="margin:0; border:0; border-top:1px solid #ccc; clear: both; padding-bottom: 0px;" />
         `;
     };
 
