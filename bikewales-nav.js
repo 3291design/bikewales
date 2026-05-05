@@ -146,7 +146,7 @@
     <td width="9%" class="dropdown ${isAbout ? 'nav-active' : 'nav-inactive'}"><a href="https://bikewalesabout.blogspot.co.uk/">About</a></td>
 </tr>
 </table>
-<hr class="thin" style="margin-top: 5px;" />
+
         `;
     };
 
