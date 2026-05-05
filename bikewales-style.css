@@ -33,3 +33,21 @@
     margin: 0 auto;
     overflow: hidden;
 }
+
+/* Unique Magazine Header System */
+.mag-header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 920px;
+    margin: -25px auto 10px auto; /* Closes that "Ghost Gap" */
+}
+
+.mag-meta-data {
+    color: #9c8461 !important; 
+    font-family: 'Josefin Sans', sans-serif !important; 
+    font-size: 14px !important;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
