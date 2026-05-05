@@ -21,7 +21,7 @@
         const isAbout = url.includes('bikewalesabout');
 
         target.innerHTML = `
-<table class="navbar2" cellspacing="0" cellpadding="0" border="0">
+<div><table class="navbar2" cellspacing="0" cellpadding="0" border="0">
 <tr>
     <td width="9%" class="dropdown ${isHome ? 'nav-active' : 'nav-inactive'}"><a href="https://bikewales.blogspot.com/">Home</a></td>
     <td width="12%" class="dropdown ${isRides ? 'nav-active' : 'nav-inactive'}">
@@ -145,8 +145,8 @@
     </td>
     <td width="9%" class="dropdown ${isAbout ? 'nav-active' : 'nav-inactive'}"><a href="https://bikewalesabout.blogspot.co.uk/">About</a></td>
 </tr>
-</table>
-<hr class="thin" style="margin-top: 10px;" />
+</table></div>
+<hr class="thin" style="margin: 5px;" />
         `;
     };
 
