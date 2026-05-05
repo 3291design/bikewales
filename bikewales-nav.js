@@ -1,23 +1,8 @@
 /* 
    Project: BikeWales Navigation 
    File: bikewales-nav.js
-   Version: 4.1 (Stabilized)
+   Version: 5.1 (Full Feature Logic - No CSS Injection)
 */
-
-(function() {
-    // 1. Create the link element for your CSS
-    var link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.type = 'text/css';
-    
-    // 2. Use the Githack link so your Workshop updates instantly
-    link.href = 'https://raw.githack.com/bikewales/shared-assets/main/bikewales-style.css';
-    
-    // 3. Send it to the "head" of the blog
-    document.getElementsByTagName('head')[0].appendChild(link);
-    
-    console.log("BikeWales CSS Injected Successfully");
-})();
 
 (function() {
     const buildNav = () => {
@@ -34,29 +19,6 @@
         const isGallery = url.includes('bikewalesgallery');
         const isWorkshop = url.includes('bikewalesgear');
         const isAbout = url.includes('bikewalesabout');
-
-        const styleInject = document.createElement('style');
-        styleInject.innerHTML = `
-            .navbar2 { width: 100%; max-width: 930px; border-collapse: collapse; table-layout: fixed; margin: 0 auto 8px auto; display: table; border: none !important; }
-            .navbar2 td { padding: 0; margin: 0; text-align: center !important; border: none !important; vertical-align: middle; }
-            .navbar2 td > a { display: block; text-align: center !important; text-decoration: none !important; font-family: tahoma, sans-serif; font-size: 13px; letter-spacing: 1px; padding: 11px 0; white-space: nowrap; }
-            .nav-active { background-color: #485175 !important; }
-            .nav-active a { color: #ffffff !important; }
-            .nav-inactive { background-color: #ffffff !important; }
-            .nav-inactive a { color: #777 !important; }
-            .dropdown:hover { background-color: #9c8461 !important; }
-            .dropdown:hover a { color: #ffffff !important; }
-            .dropdown-content { display: none; position: absolute; background-color: #666 !important; min-width: 250px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 999; border: 1px solid #555; }
-            .dropdown:hover .dropdown-content { display: block; }
-            .dropdown-content a { color: #fff !important; padding: 10px 15px !important; text-align: left !important; display: block; font-size: 12px; }
-            .dropbtn2 { position: relative; display: block; width: 100%; }
-            .dropdown-content2 { display: none; position: absolute; background-color: #000 !important; min-width: 190px; z-index: 1000; left: 100% !important; top: 0 !important; border: 1px solid #333; }
-            .dropbtn2:hover .dropdown-content2 { display: block; }
-            .coming-soon { color: #888 !important; font-style: italic; cursor: default !important; pointer-events: none; }
-            .coming-soon:after { content: " (Coming Soon)"; font-size: 10px; opacity: 0.7; }
-            .navbar2 hr.nav-hr { border: 0; border-top: 1px solid #888; margin: 8px auto; width: 90%; display: block; }
-        `;
-        document.head.appendChild(styleInject);
 
         target.innerHTML = `
 <table class="navbar2" cellspacing="0" cellpadding="0" border="0">
@@ -157,6 +119,17 @@
         <a href="#" class="dropbtn">Gallery</a>
         <div class="dropdown-content">
             <a href="https://bikewalesgallery-home.blogspot.com/2022/01/gallery.html">New Collections</a>
+            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles, Churches, &amp; Abbeys:</a>
+                <div class="dropdown-content2">
+                    <a href="https://bikewalesgallery-home.blogspot.com/2025/04/abergavenny-castle.html">Abergavenny Castle</a>
+                    <a href="https://bikewalesgallery-home.blogspot.com/2025/04/caldicot-castle.html">Caldicot Castle</a>
+                    <a href="https://bikewalesgallery-home.blogspot.com/2025/04/llantony-priory.html">Llantony Priory</a>
+                    <a href="https://bikewalesgallery-home.blogspot.com/2025/04/ogmore-castle.html">Ogmore Castle</a>
+                    <a href="https://bikewalesgallery-home.blogspot.com/2026/03/raglan-castle.html">Raglan Castle</a>
+                    <a href="https://bikewalesgallery-home.blogspot.com/2025/04/usk-castle.html">Usk Castle</a>
+                </div>
+            </div>
+            <hr class="nav-hr" />
             <a href="https://bikewalesgallery.blogspot.com/2022/02/gallery-archive.html">Gallery Archive</a>
         </div>
     </td>
@@ -166,6 +139,8 @@
             <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Digital Project List</a>
             <a href="https://bikewalesgear-home.blogspot.com/2026/04/mechanical-project-list.html">Mechanical Projects</a>
             <a href="https://bikewalesgear-home.blogspot.com/p/gear-calculator-1983.html">Gear Calculator</a>
+            <a href="https://bikewalesgear-home.blogspot.com/2022/05/parts-accessories.html">Parts &amp; Accessories</a>
+            <a href="https://bikewalesgear-home.blogspot.com/2022/05/service-maintenance-records.html">Service Records</a>
         </div>
     </td>
     <td width="9%" class="dropdown ${isAbout ? 'nav-active' : 'nav-inactive'}"><a href="https://bikewalesabout.blogspot.co.uk/">About</a></td>
