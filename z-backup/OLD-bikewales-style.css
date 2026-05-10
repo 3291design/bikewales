@@ -1,1 +1,36 @@
 
+/* 3. LAYOUT CONTAINERS & CARD SYSTEM */
+.card-sleeve, .display-sleeve {
+    max-width: 940px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.display-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 850px;
+}
+
+/* 4. UNIQUE HEADER SYSTEM (Magazine Meta) */
+.mag-header-wrapper {
+    display: flex !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    max-width: 920px !important;
+    margin: -25px auto 10px auto !important;
+    padding: 0 10px !important;
+    box-sizing: border-box !important;
+}
+
+.mag-meta-data {
+    color: #9c8461 !important; 
+    font-family: 'Josefin Sans', sans-serif !important; 
+    font-size: 14px !important;
+    font-weight: bold !important;
+    letter-spacing: 4px !important;
+    text-transform: uppercase !important;
+}
