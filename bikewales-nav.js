@@ -1,7 +1,8 @@
-/* BIKE WALES MASTER NAVBAR 
-   VERSION: 4 (Workshop Master)
-   REFINED from 43.15.4: 2026-04-30
-*/
+/* Version: 6.0.1 | Date: 2026-05-10 | Project: 2026 Factory Restoration */
+
+#bikewales-nav-v6 {
+    /* your styles here */
+}
 
 (function() {
     const buildNav = () => {
