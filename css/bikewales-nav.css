@@ -82,6 +82,11 @@
   position: relative;
 }
 
+.dropbtn2 a { font-weight: bold; }
+.dropbtn2 span { font-size: 10px; vertical-align: middle; }
+.dropbtn2:hover .dropdown-content2 {
+  display: block;
+}
 .dropdown-content2 {
   display: none;
   position: absolute;
@@ -91,10 +96,6 @@
   z-index: 1000;
   left: 100% !important; /* Pops out to the right */
   top: 0 !important;
-}
-
-.dropbtn2:hover .dropdown-content2 {
-  display: block;
 }
 
 .dropdown-content2 a:hover, .dropbtn2:hover {
