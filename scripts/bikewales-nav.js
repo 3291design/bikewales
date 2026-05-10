@@ -7,16 +7,19 @@
 
         const url = window.location.href.toLowerCase();
         
-        // Site Detection Logic
+       // Site Detection Logic
         const isRides    = url.includes('bikewalesrides');
         const isRoutes   = url.includes('bikewalesroutes');
         const isEvents   = url.includes('bikewalesevents');
         const isCharts   = url.includes('walescharts') || url.includes('bikeswalescharts'); 
         const isGallery  = url.includes('bikewalesgallery');
-        const isWorkshop = url.includes('bikewalesgear');
         const isAbout    = url.includes('bikewalesabout');
-        const isMainDomain = url.includes('bikewales.blogspot.com');
         
+        // The Workshop/Gear fix
+        const isWorkshop = url.includes('bikewalesgear') || url.includes('gear-home');
+        
+        // The "Catch-All" Home Logic
+        const isMainDomain = url.includes('bikewales.blogspot.com');
         const isHome = isMainDomain && !(isRides || isRoutes || isEvents || isCharts || isGallery || isWorkshop || isAbout);
 
         target.innerHTML = `
