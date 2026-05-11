@@ -1,11 +1,13 @@
-basic structure for future website
+basic structure (folders) for future website
 
-css/placeholder.txt
+css 
 
-images/placeholder.txt
+email
 
-scripts/placeholder.txt
+images
 
-email/placeholder.txt
+scripts
 
-z-backup/placeholder.txt
+z-backup
+
+README.md
