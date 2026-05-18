@@ -157,8 +157,8 @@
     <td width="11%" class="dropdown ${isGallery ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Gallery</a>
         <div class="dropdown-content">
-            <a href="https://bikewalesgallery-home.blogspot.com/2022/01/gallery.html">New Collections</a>
-            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles & Churches:</a>
+            <a href="https://bikewalesgallery-home.blogspot.com/2022/01/gallery.html">Main Collection</a>
+            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles, Churches & Abbeys:</a>
                 <div class="dropdown-content2">
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/abergavenny-castle.html">Abergavenny Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/caldicot-castle.html">Caldicot Castle</a>
