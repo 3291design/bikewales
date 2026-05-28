@@ -156,7 +156,7 @@
     <!-- GALLERY -->
     <td width="11%" class="dropdown ${isGallery ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Gallery</a>
-        <div class="dropdown-content">
+        <div class="dropdown-content" style="min-width: 250px;">
             <a href="https://bikewalesgallery-home.blogspot.com/2022/01/gallery.html">Main Collection</a>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles, Churches & Abbeys:</a>
                 <div class="dropdown-content2">
@@ -178,7 +178,7 @@
         <a href="#" class="dropbtn">Workshop</a>
         <div class="dropdown-content" style="min-width: 140px;">
             <div class="dropbtn2"><a href="#">&#9658;&nbsp;Desktop:</a>
-                <div class="dropdown-content2" style="min-width: 250px;">
+                <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Online Project List</a>
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/ride-reports.html">Outstanding: Ride Reports</a>
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/routes-to-ride.html">Future: Routes to Ride</a>
@@ -186,7 +186,7 @@
                 </div>
             </div>
             <div class="dropbtn2"><a href="#">&#9658;&nbsp;Workbench:</a>
-                <div class="dropdown-content2" style="min-width: 230px;">
+                <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/mechanical-project-list.html">Mechanical Project List</a>
                     <a href="https://bikewalesgear-home.blogspot.com/p/gear-calculator-1983.html">Gear Ratio Calculator</a>
                     <a href="https://bikewalesgear-home.blogspot.com/2022/05/parts-accessories.html">Parts &amp; Accessories</a>
