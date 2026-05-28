@@ -159,7 +159,7 @@
         <div class="dropdown-content" style="min-width: 230px;">
             <a href="https://bikewalesgallery-home.blogspot.com/2022/01/gallery.html">Main Collection</a>
             <a href="https://bikewalesgallery-home.blogspot.com/2026/03/best-of-year.html">Best of Year</a>
-            <a href="#">Historic Buildings</a>
+            <a href="https://bikewalesgallery-home.blogspot.com/2026/03/historic-architecture.html">Historic Architecture</a>
              
              <!--  <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles, Churches & Abbeys:</a>
               <div class="dropdown-content2">
