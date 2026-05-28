@@ -169,8 +169,9 @@
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/ogmore-castle.html">Ogmore Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2026/03/raglan-castle.html">Raglan Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/usk-castle.html">Usk Castle</a>
-                </div> -->
-            </div>
+                </div> 
+            </div> -->
+            
             <hr class="nav-hr" />
             <a href="https://bikewalesgallery.blogspot.com/2022/02/gallery-archive.html">Gallery Archive: 2012-2021</a>
         </div>
