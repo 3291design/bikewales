@@ -156,17 +156,20 @@
     <!-- GALLERY -->
     <td width="11%" class="dropdown ${isGallery ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Gallery</a>
-        <div class="dropdown-content" style="min-width: 250px;">
+        <div class="dropdown-content" style="min-width: 230px;">
             <a href="https://bikewalesgallery-home.blogspot.com/2022/01/gallery.html">Main Collection</a>
-            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles, Churches & Abbeys:</a>
-                <div class="dropdown-content2">
+            <a href="https://bikewalesgallery-home.blogspot.com/2026/03/best-of-year.html">Best of Year</a>
+            <a href="#">Historic Buildings</a>
+             
+             <!--  <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Castles, Churches & Abbeys:</a>
+              <div class="dropdown-content2">
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/abergavenny-castle.html">Abergavenny Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/caldicot-castle.html">Caldicot Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/llantony-priory.html">Llantony Priory</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/ogmore-castle.html">Ogmore Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2026/03/raglan-castle.html">Raglan Castle</a>
                     <a href="https://bikewalesgallery-home.blogspot.com/2025/04/usk-castle.html">Usk Castle</a>
-                </div>
+                </div> -->
             </div>
             <hr class="nav-hr" />
             <a href="https://bikewalesgallery.blogspot.com/2022/02/gallery-archive.html">Gallery Archive: 2012-2021</a>
