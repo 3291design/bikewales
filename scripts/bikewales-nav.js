@@ -156,7 +156,7 @@
     <!-- WORKSHOP -->
     <td style="width: 12%;" class="dropdown ${isWorkshop ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Workshop</a>
-        <div class="dropdown-content" style="min-width: 140px;">
+        <div class="dropdown-content" style="min-width: 200px;">
             <div class="dropbtn2"><a href="#">&#9658;&nbsp;Desktop:</a>
                 <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Online Project List</a>
@@ -174,7 +174,7 @@
                 </div>
             </div>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Goals &amp; Achievements:</a>
-                <div class="dropdown-content2">
+                <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesrides-home.blogspot.com/p/2026-goals_23.html"><b>⤷ 2026</b> Goals</a>
                     <a href="https://bikewalesrides-home.blogspot.com/p/2025-achievements.html"><b>2025</b> Achievements</a>
                     <a href="https://bikewalesrides-home.blogspot.com/p/2025-goals.html"><b>⤷ 2025</b> Goals</a>
