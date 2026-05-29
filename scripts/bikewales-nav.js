@@ -156,7 +156,7 @@
     <!-- WORKSHOP -->
     <td style="width: 12%;" class="dropdown ${isWorkshop ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Workshop</a>
-        <div class="dropdown-content" style="min-width: 200px;">
+        <div class="dropdown-content" style="min-width: 240px;">
             <div class="dropbtn2"><a href="#">&#9658;&nbsp;Desktop:</a>
                 <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Online Project List</a>
