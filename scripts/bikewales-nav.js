@@ -71,7 +71,7 @@
     <!-- ROUTES -->
     <td width="16%" class="dropdown ${isRoutes ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Routes to Ride</a>
-        <div class="dropdown-content" style="min-width: 280px;">
+        <div class="dropdown-content" style="min-width: 260px;">
             <a href="https://bikewalesroutes-home.blogspot.com/2023/05/routes-to-ride-overview.html">Overview: South East Wales</a>
             <a href="https://bikewalesroutes-home.blogspot.com/2020/12/ncn-routes-in-south-east-wales_5.html">South East Wales: Complete List</a>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Regional Routes:</a>
@@ -143,7 +143,7 @@
             <hr class="nav-hr" />
             <a href="https://bikeswalescharts-home.blogspot.com/2026/02/overall-walking-totals.html">Overall Walking Totals</a>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Walking Totals by Year:</a> 
-                <div class="dropdown-content2" style="min-width: 210px;">
+                <div class="dropdown-content2" style="min-width: 190px;">
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-yearly-walking.html"><b>2026</b> Yearly Walking</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2024/12/2025-walking-totals.html"><b>2025</b> Yearly Walking</a>
                 </div>
