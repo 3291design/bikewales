@@ -32,7 +32,7 @@
     <td width="12%" class="dropdown ${isRides ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">My Rides</a>
         <div class="dropdown-content">
-            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Ride Reports by Year:</a>
+            <div class="dropbtn2"><a href="#">&#9658;&nbsp;Ride Reports by Year:</a>
                 <div class="dropdown-content2"  style="min-width: 170px !important;">
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2024.html">Ride Reports: <b>2024</b></a>
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2023.html">Ride Reports: <b>2023</b></a>
@@ -62,7 +62,7 @@
         <div class="dropdown-content" style="min-width: 260px;">
             <a href="https://bikewalesroutes-home.blogspot.com/2023/05/routes-to-ride-overview.html">Overview: South East Wales</a>
             <a href="https://bikewalesroutes-home.blogspot.com/2020/12/ncn-routes-in-south-east-wales_5.html">South East Wales: Complete List</a>
-            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Regional Routes:</a>
+            <div class="dropbtn2"><a href="#">&#9658;&nbsp;Regional Routes:</a>
                 <div class="dropdown-content2" style="min-width: 220px !important;">
                     <a href="https://bikewalesroutes-home.blogspot.com/2020/12/the-valleys.html">Eastern Valleys</a>
                     <hr class="nav-hr" />
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <hr class="nav-hr" />
-            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Bike Wales Custom Routes:</a>
+            <div class="dropbtn2"><a href="#">&#9658;&nbsp;Bike Wales Custom Routes:</a>
                 <div class="dropdown-content2" style="min-width: 180px !important;">
                     <a href="https://bikewalesroutes-home.blogspot.com/2020/11/beginner-routes.html">Beginner Routes</a>
                     <a href="https://bikewalesroutes-home.blogspot.com/2020/12/intermediate-routes.html">Intermediate Routes</a>
@@ -156,7 +156,7 @@
     <!-- WORKSHOP -->
     <td style="width: 12%;" class="dropdown ${isWorkshop ? 'nav-active' : 'nav-inactive'}">
         <a href="#" class="dropbtn">Workshop</a>
-        <div class="dropdown-content" style="min-width: 240px;">
+        <div class="dropdown-content" style="min-width: 230px;">
             <div class="dropbtn2"><a href="#">&#9658;&nbsp;Desktop:</a>
                 <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesgear-home.blogspot.com/2026/04/online-project-list.html">Online Project List</a>
@@ -173,7 +173,7 @@
                     <a href="https://bikewalesgear-home.blogspot.com/2022/05/service-maintenance-records.html">Service Records</a>
                 </div>
             </div>
-            <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Goals &amp; Achievements:</a>
+            <div class="dropbtn2"><a href="#">&#9658;&nbsp;Goals &amp; Achievements:</a>
                 <div class="dropdown-content2" style="min-width: 210px;">
                     <a href="https://bikewalesrides-home.blogspot.com/p/2026-goals_23.html"><b>⤷ 2026</b> Goals</a>
                     <a href="https://bikewalesrides-home.blogspot.com/p/2025-achievements.html"><b>2025</b> Achievements</a>
