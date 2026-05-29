@@ -33,7 +33,7 @@
         <a href="#" class="dropbtn">My Rides</a>
         <div class="dropdown-content">
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Ride Reports by Year:</a>
-                <div class="dropdown-content2">
+                <div class="dropdown-content2"  style="min-width: 240px !important;">
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2024.html">Ride Reports: <b>2024</b></a>
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2023.html">Ride Reports: <b>2023</b></a>
                     <a href="https://bikewalesrides-home.blogspot.com/2021/03/rides-by-year-2022.html">Ride Reports: <b>2022</b></a>
@@ -51,7 +51,7 @@
             </div>
             <a href="https://bikewalesrides-home.blogspot.com/2022/01/rides-to-remember.html">Rides to Remember</a>
             <a href="https://bikewalesrides-home.blogspot.com/2022/01/rides-to-z_10.html">Ride Reports: A to Z</a>
-            <hr class="nav-hr" />
+            <!-- <hr class="nav-hr" />
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Goals &amp; Achievements:</a>
                 <div class="dropdown-content2">
                     <a href="https://bikewalesrides-home.blogspot.com/p/2026-goals_23.html"><b>⤷ 2026</b> Goals</a>
@@ -62,7 +62,7 @@
                     <a href="https://bikewalesrides-home.blogspot.com/p/2023-achievements.html"><b>2023</b> Achievements</a>
                     <a href="https://bikewalesrides-home.blogspot.com/p/2022-achievements.html"><b>2022</b> Achievements</a>
                 </div>
-            </div>
+            </div> -->
             <hr class="nav-hr" />
             <a href="https://bikewalesrides-archive.blogspot.com">Ride Archive: 2012 - 2020</a>
         </div>
@@ -75,7 +75,7 @@
             <a href="https://bikewalesroutes-home.blogspot.com/2023/05/routes-to-ride-overview.html">Overview: South East Wales</a>
             <a href="https://bikewalesroutes-home.blogspot.com/2020/12/ncn-routes-in-south-east-wales_5.html">South East Wales: Complete List</a>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Regional Routes:</a>
-                <div class="dropdown-content2" style="min-width: 360px !important;">
+                <div class="dropdown-content2" style="min-width: 220px !important;">
                     <a href="https://bikewalesroutes-home.blogspot.com/2020/12/the-valleys.html">Eastern Valleys</a>
                     <hr class="nav-hr" />
                     <a href="#" class="coming-soon">Western Valleys</a>
