@@ -99,7 +99,7 @@
         <div class="dropdown-content" style="min-width: 230px;">
             <a href="https://bikeswalescharts-home.blogspot.com/2023/01/overall-totals.html">Overall Cycling Totals</a>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Cycling Totals by Year:</a> 
-                <div class="dropdown-content2" style="min-width: 150px;">
+                <div class="dropdown-content2" style="min-width: 180px;">
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-yearly-totals.html"><b>2026</b> Cycling Totals</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/01/2025-yearly-totals.html"><b>2025</b> Cycling Totals</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2024/01/2024-yearly-totals.html"><b>2024</b> Cycling Totals</a>
