@@ -131,7 +131,7 @@
             <hr class="nav-hr" />
             <a href="https://bikeswalescharts-home.blogspot.com/2026/02/overall-walking-totals.html">Overall Walking Totals</a>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Walking Totals by Year:</a> 
-                <div class="dropdown-content2" style="min-width: 190px;">
+                <div class="dropdown-content2" style="min-width: 180px;">
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-yearly-walking.html"><b>2026</b> Yearly Walking</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2024/12/2025-walking-totals.html"><b>2025</b> Yearly Walking</a>
                 </div>
