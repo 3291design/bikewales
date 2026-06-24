@@ -118,7 +118,7 @@
                 </div>
             </div>    
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Solitaires:</a> 
-                <div class="dropdown-content2" style="min-width: 180px;">
+                <div class="dropdown-content2" style="min-width: 150px;">
                     <a href="https://bikeswalescharts-home.blogspot.com/2022/12/solitaires-overview.html"><b>Overview</b></a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-solitaires.html"><b>2026</b> Solitaires</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2024/12/2025-solitaires.html"><b>2025</b> Solitaires</a>
