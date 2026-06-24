@@ -108,7 +108,7 @@
                 </div>
             </div>
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Rides by Bike:</a> 
-                <div class="dropdown-content2" style="min-width: 150px;">
+                <div class="dropdown-content2" style="min-width: 180px;">
                     <a href="https://bikeswalescharts-home.blogspot.com/2022/12/rides-by-bike.html"><b>Overview</b></a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-rides-by-bike.html"><b>2026</b> Rides by Bike</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/01/2025-rides-by-bike.html"><b>2025</b> Rides by Bike</a>
@@ -118,7 +118,7 @@
                 </div>
             </div>    
             <div class="dropbtn2"><a href="#">&nbsp;&nbsp;&#9658;&nbsp;Solitaires:</a> 
-                <div class="dropdown-content2" style="min-width: 120px;">
+                <div class="dropdown-content2" style="min-width: 180px;">
                     <a href="https://bikeswalescharts-home.blogspot.com/2022/12/solitaires-overview.html"><b>Overview</b></a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2025/12/2026-solitaires.html"><b>2026</b> Solitaires</a>
                     <a href="https://bikeswalescharts-home.blogspot.com/2024/12/2025-solitaires.html"><b>2025</b> Solitaires</a>
